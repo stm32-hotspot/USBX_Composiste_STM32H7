@@ -1,4 +1,4 @@
-# STM32 dataloggers example 
+# STM32 USBX Composite Example based on the STM32H7
 
 In this repository : 
 
